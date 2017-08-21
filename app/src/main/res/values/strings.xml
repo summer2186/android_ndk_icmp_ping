@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">libping</string>
+    <string name="button_ping_text">ping</string>
+</resources>
